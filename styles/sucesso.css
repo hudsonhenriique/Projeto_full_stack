@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; /* Centraliza verticalmente */
+  height: 100vh; /* Ocupa toda a altura da janela */
+  margin: 0; /* Remove margens padrão do body */
+  background-color: #8ec5fc;
+  background-image: linear-gradient(62deg, #8ec5fc 0%, #e0c3fc 100%);
+}
+
+#form {
+  width: 50%; /* Defina a largura desejada */
+  padding: 20px; /* Espaçamento interno */
+  border: 5px solid black; /* Borda sólida de 2px com cor cinza */
+  text-align: center; /* Centraliza o texto horizontalmente */
+}
