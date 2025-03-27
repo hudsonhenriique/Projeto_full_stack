@@ -47,7 +47,7 @@ Welcome to the **Full Stack Project** - Pet Shop, a simple and functional applic
 5. Access the project in your browser:
    http://localhost/Projeto_full_stack/
 
-     ---
+---
    
 ## 📌 Future Improvements
 
