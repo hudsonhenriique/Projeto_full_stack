@@ -1,77 +1,77 @@
-# 🐾 Projeto Full Stack - Pet Shop
+# 🐾 Full Stack Project - Pet Shop
 
-Bem-vindo ao **Projeto Full Stack - Pet Shop**, uma aplicação simples e funcional desenvolvida para gerenciar agendamentos de serviços para pets. Este projeto foi construído utilizando **HTML**, **CSS**, **JavaScript**, **PHP** e **MySQL**.
+Welcome to the **Full Stack Project** - Pet Shop, a simple and functional application developed to manage pet service appointments. This project was built using **HTML**, **CSS**, **JavaScript**, **PHP**, and **MySQL**.
 
-## 📸 Captura de Tela
+## 📸 Screenshot
 
-![Captura de Tela do Projeto](screenshot.PNG)
+![Project Screenshot](screenshot.PNG)
 
-## 📋 Funcionalidades
+## 📋 Features
 
-- **Landing Page**: Uma página inicial atrativa que apresenta os serviços oferecidos.
-- **Formulário de Agendamento**: Permite que os clientes agendem serviços para seus pets.
-- **Página de Sucesso**: Exibe os dados do agendamento após o envio do formulário.
-- **Banco de Dados**: Armazena os dados dos clientes e seus agendamentos.
+- **Landing Page**: An attractive homepage presenting the services offered.
+- **Appointment Form**: Allows customers to schedule services for their pets.
+- **Success Page**: Displays appointment details after form submission.
+- **Database**: Stores customer and appointment data.
 
-## 🛠️ Tecnologias Utilizadas
+## 🛠️ Technologies Used
 
 - **Frontend**: HTML, CSS e JavaScript.
 - **Backend**: PHP.
 - **Banco de Dados**: MySQL.
 
-## 📂 Estrutura do Projeto
+## 📂 Project Structure
 
-- **config.php**: Configuração do banco de dados.
-- **formulario.php**: Página do formulário de agendamento.
-- **index.html**: Página inicial (Landing Page).
-- **pet.sql**: Script SQL para criação da tabela.
-- **sucesso.php**: Página de sucesso após o agendamento.
-- **README.md**: Documentação do projeto.
-- **assets/**: Imagens e ícones utilizados no projeto.
-- **styles/**: Arquivos de estilo CSS.
+- **config.php**: Database configuration.
+- **formulario.php**: Appointment form page.
+- **index.html**: Homepage (Landing Page).
+- **pet.sql**: SQL script for table creation.
+- **sucesso.php**: Success page after scheduling.
+- **README.md**: Project documentation.
+- **assets/**: Images and icons used in the project.
+- **styles/**: CSS stylesheet files.
+- 
+## 🚀 How to Run the Project
 
-## 🚀 Como Executar o Projeto
-
-1. Clone este repositório:
+1. Clone this repository:
    ```bash
    git clone https://github.com/seu-usuario/projeto-full-stack-pet-shop.git
    ```
-2. Configure o banco de dados:
-   - Crie um banco de dados chamado `pet`.
-   - Importe o arquivo `pet.sql` para criar a tabela necessária.
+2. Set up the database:
+   - Create a database named `pet`.
+   - Import the `pet.sql` file to create the necessary table.
 
-3. Configure o arquivo `config.php` com as credenciais do seu banco de dados.
+3. Configure the `config.php` file with your database credentials.
 
-4. Inicie um servidor local (como o XAMPP ou WAMP) e coloque os arquivos na pasta `htdocs`.
+4. Start a local server (such as XAMPP or WAMP) and place the files in the `htdocs` folder.
 
-5. Acesse o projeto no navegador:
+5. Access the project in your browser:
    http://localhost/Projeto_full_stack/
 
      ---
    
-## 📌 Melhorias Futuras
+## 📌 Future Improvements
 
-- Melhorar a estética do formulário e da página de sucesso.
-- Adicionar validações mais robustas no backend.
-- Implementar autenticação para gerenciar os agendamentos.
+- Improve the aesthetics of the form and success page.
+- Add more robust backend validations.
+- Implement authentication to manage appointments.
+- 
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+If you’d like to suggest improvements or report issues, feel free to open an **issue** or submit a **pull request**.  
 
 ---
 
-## 🤝 Contribuindo
+## 📄 License
 
-Contribuições são bem-vindas!  
-Se quiser sugerir melhorias ou reportar problemas, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.  
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.  
-Veja o arquivo **LICENSE** para mais detalhes.  
+This project is licensed under the MIT License.
+See the **LICENSE** file for more details.
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 📧 **Email**: hudson.henri10@gmail.com 
 - 💼 **LinkedIn**: (https://www.linkedin.com/in/hudsonhenri)  
