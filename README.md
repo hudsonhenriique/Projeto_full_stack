@@ -29,7 +29,7 @@ Welcome to the **Full Stack Project** - Pet Shop, a simple and functional applic
 - **README.md**: Project documentation.
 - **assets/**: Images and icons used in the project.
 - **styles/**: CSS stylesheet files.
-- 
+  
 ## 🚀 How to Run the Project
 
 1. Clone this repository:
@@ -54,7 +54,7 @@ Welcome to the **Full Stack Project** - Pet Shop, a simple and functional applic
 - Improve the aesthetics of the form and success page.
 - Add more robust backend validations.
 - Implement authentication to manage appointments.
-- 
+  
 ---
 
 ## 🤝 Contributing
